@@ -1,4 +1,4 @@
-#Plateforme de meubles I-Key-Ah !
+# Plateforme de meubles I-Key-Ah !
 
 Réalisé avec Springboot et Angular. Ce projet a été construit en sept jours en deux équipes de trois. Une première partie du projet l'équipe A travaillait sur le front-end, et l'équipe B sur le back-end. La deuxième partie de la semaine, les deux équipes se sont interchangées.
 
